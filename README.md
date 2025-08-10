@@ -48,5 +48,11 @@ Para executar este projeto, é necessário ter a biblioteca `pyautogui` instalad
 
 Você pode instalá-la com o comando:
 
+---
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. 
+
 ```bash
 pip install pyautogui
