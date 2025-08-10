@@ -47,12 +47,13 @@ O script `codigo.py` realiza as seguintes ações no jogo **Bloons TD 6**:
 Para executar este projeto, é necessário ter a biblioteca `pyautogui` instalada.
 
 Você pode instalá-la com o comando:
-
+```bash
+pip install pyautogui
+```
 ---
 
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. 
 
-```bash
-pip install pyautogui
+
